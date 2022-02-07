@@ -1,5 +1,6 @@
-# I attempt to predict whether people will purchase SUVs based on their estimated salary and age. I trained the K-Nearest Neighbors(k-NN) on the train dataset 
-The methods of feature scaling and inverse transformation were used.
+# K-Nearest-Neighbors-K-NN
+
+I attempt to predict whether people will purchase SUVs based on their estimated salary and age. I split the data into training and test sets and used the Training set to train the K-Nearest Neighbors(k-NN). The methods of feature scaling and inverse transformation were used.
 
 Accuracy of a confusion matrix :0.93
 
