@@ -8,6 +8,6 @@ Accuracy of a confusion matrix :0.93
 ```bash
 $ pip install -r requirement.txt
 ```
-![model's output](./figure1.png)
-![model's output](./figure2.png)
-![model's output](./figure3.png)
+![model's output](./Figure1.png)
+![model's output](./Figure2.png)
+![model's output](./Figure3.png)
